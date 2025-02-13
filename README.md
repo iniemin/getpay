@@ -1,4 +1,4 @@
-# Aminubot - Userbot Getpay
+# Userbot Getpay
 
 ## Cara Menggunakan
 1. Install dependensi dengan menjalankan:
